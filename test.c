@@ -1,6 +1,3 @@
 
-huhuhuhu 
-I dont know what I'm doing
-
-{what the hell?}
+git remote add origin https://github.com/username/myproject.git
 
